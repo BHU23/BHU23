@@ -8,10 +8,38 @@
   </strong>
 </p>
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+### 🧑🏻‍💻 Abilities
+
+<br/>
+
+### ⌨️ Languages and Tools
+
+<br/>
+
+## 🔠 Languages
+
+<br/>
+
+## 💽 Databases
+
+<br/>
+
+## 🧰 Tools
+<br/>
+
+### Frameworks and Libraries
+
+<br/>
+
+### 💡 Currently Learning
+
+<br/>
+
+### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHU23&show_icons=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHU23&layout=compact&theme=react" />
 </div>
+
