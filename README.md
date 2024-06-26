@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=hi,+I'm+Bhuwadol's+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</h1>
+<h1 align="center">Hi I'm Bhuwadol Sriton! 👋</h1>
+<p style="text-align: justify;">
+  <strong>
+  test
+  </strong>
+</p>
 
-<!--
-**BHU23/BHU23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHU23&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHU23&layout=compact&theme=react" />
+</div>
