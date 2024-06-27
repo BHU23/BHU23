@@ -1,11 +1,23 @@
+Here is the introduction in English, including the details about your skills and interests:
+
+---
+
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=hi,+I'm+Bhuwadol's+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;I+love+developing.&center=true&width=500&height=50"></a>
 </h1>
-<h1 align="center">Hi I'm Bhuwadol Sriton! 👋</h1>
+
+<h1 align="center">Hi, I'm Bhuwadol Sriton! 👋</h1>
+
+<p align="center">
+  <strong>About Me</strong>
+</p>
+
 <p style="text-align: justify;">
-  <strong>
-  test
-  </strong>
+  I am a developer experienced in Agile methodologies, capable of designing, developing, testing, and maintaining software efficiently. I am passionate about Full-stack development, both Front-end and Back-end.
+</p>
+
+<p style="text-align: justify;">
+  Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.
 </p>
 <br/>
 
