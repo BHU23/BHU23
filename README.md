@@ -1,7 +1,3 @@
-Here is the introduction in English, including the details about your skills and interests:
-
----
-
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;I+love+developing.&center=true&width=500&height=50"></a>
 </h1>
