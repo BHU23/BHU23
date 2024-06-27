@@ -4,16 +4,12 @@
 
 <h1 align="center">Hi, I'm Bhuwadol Sriton! 👋</h1>
 
-<p align="center">
-  <strong>About Me</strong>
+<p style="text-align: justify;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a developer experienced in Agile methodologies, capable of designing, developing, testing, and maintaining software efficiently. I am passionate about Full-stack development, both Front-end and Back-end.
 </p>
 
 <p style="text-align: justify;">
-  I am a developer experienced in Agile methodologies, capable of designing, developing, testing, and maintaining software efficiently. I am passionate about Full-stack development, both Front-end and Back-end.
-</p>
-
-<p style="text-align: justify;">
-  Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.
 </p>
 <br/>
 
