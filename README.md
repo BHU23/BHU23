@@ -2,14 +2,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;I+love+developing.&center=true&width=500&height=50"></a>
 </h1>
 
-<h1 align="center">Hi, I'm Bhuwadol Sriton! 👋</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Bhuwadol Sriton! 👋</h1>
 
 <p style="text-align: justify;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a developer experienced in Agile methodologies, capable of designing, developing, testing, and maintaining software efficiently. I am passionate about Full-stack development, both Front-end and Back-end.
 </p>
 
 <p style="text-align: justify;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.🥰
 </p>
 <br/>
 
