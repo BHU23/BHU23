@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;I+love+developing.&center=true&width=500&height=50"></a>
 </h1>
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Bhuwadol Sriton! 👋</h1>
+<h1 align="center">  Hi, I'm Bhuwadol Sriton! 👋 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
 <p style="text-align: justify;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a developer experienced in Agile methodologies, capable of designing, developing, testing, and maintaining software efficiently. I am passionate about Full-stack development, both Front-end and Back-end.
@@ -13,34 +13,34 @@
 </p>
 <br/>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abilities
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abilities
 
 <br/>
 
-### ⌨️ Languages and Tools
+## ⌨️ Languages and Tools
 
 <br/>
 
-## 🔠 Languages
+### 🔠 Languages
 
 <br/>
 
-## 💽 Databases
+### 💽 Databases
 
 <br/>
 
-## 🧰 Tools
+### 🧰 Tools
 <br/>
 
-### 🔗 Frameworks and Libraries
-
-<br/>
-
-### 💡 Currently Learning
+## 🔗 Frameworks and Libraries
 
 <br/>
 
-### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+## 💡 Currently Learning
+
+<br/>
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
 <div align="center">
