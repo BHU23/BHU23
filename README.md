@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-### <a href="https://www.thoughtworks.com"> Abilities
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abilities
 
 <br/>
 
