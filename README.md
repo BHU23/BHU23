@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
        
-</td>
+</td> 
 <td valign="top" width="33%"> 
 ## 🧰 Tools
 
@@ -105,7 +105,7 @@
 </a>
 
 <br/>
-</td></tr>
+</td>
 <td valign="top" width="33%"> 
 ## 🔗 Frameworks and Libraries
 
@@ -175,7 +175,6 @@
 
 <br/>
 </tr>
-<tr>
 <td valign="top" width="33%"> 
 ## ⭕ Other
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
