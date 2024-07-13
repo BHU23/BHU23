@@ -150,7 +150,6 @@
 </td></tr>
 <tr>
 <td valign="top" width="33%"> 
-<br/>
 
 ##  👾 AI/ML
 
@@ -174,7 +173,7 @@
 </a>
 
 <br/>
-</tr>
+</td>
 <td valign="top" width="33%"> 
 ## ⭕ Other
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
