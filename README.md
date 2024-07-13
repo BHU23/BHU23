@@ -86,8 +86,9 @@
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </a>
-</td>  </tr></table>
-
+</td> </tr>
+<tr>
+<td valign="top" width="33%"> 
 ## 💽 Databases
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -104,7 +105,8 @@
 </a>
 
 <br/>
-
+</td></tr>
+<td valign="top" width="33%"> 
 ## 🔗 Frameworks and Libraries
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -122,7 +124,9 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 
 <br/>
-
+</td></tr>
+<tr>
+<td valign="top" width="33%"> 
 ## ⚙️ Software
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -136,13 +140,16 @@
 </a>
 
 <br/>
-
+</td> 
+<td valign="top" width="33%"> 
 ## 🅰️ Automation
 
 <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
 </a>
-
+</td></tr>
+<tr>
+<td valign="top" width="33%"> 
 <br/>
 
 ##  👾 AI/ML
@@ -167,7 +174,9 @@
 </a>
 
 <br/>
-
+</tr>
+<tr>
+<td valign="top" width="33%"> 
 ## ⭕ Other
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -176,7 +185,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
-<br/>
+<br/> </td> </tr> </table>
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
