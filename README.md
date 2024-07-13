@@ -26,7 +26,9 @@
 
 ## ⌨️ My Skills
 <table><tr><td valign="top" width="33%"> 
+  
 ## 🔠 Languages
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
@@ -69,6 +71,7 @@
        
 </td> 
 <td valign="top" width="33%"> 
+  
 ## 🧰 Tools
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -89,6 +92,7 @@
 </td> </tr>
 <tr>
 <td valign="top" width="33%"> 
+  
 ## 💽 Databases
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -104,9 +108,9 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 
-<br/>
 </td>
 <td valign="top" width="33%"> 
+  
 ## 🔗 Frameworks and Libraries
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -122,11 +126,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
-<br/>
 </td></tr>
 <tr>
 <td valign="top" width="33%"> 
+  
 ## ⚙️ Software
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -139,9 +142,9 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
 
-<br/>
 </td> 
 <td valign="top" width="33%"> 
+  
 ## 🅰️ Automation
 
 <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
@@ -171,11 +174,11 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </a>
-
-<br/>
 </td>
 <td valign="top" width="33%"> 
+  
 ## ⭕ Other
+
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
