@@ -24,24 +24,6 @@
 
 <br/>
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHU23&show_icons=true&theme=codeSTACKr" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHU23&layout=compact&theme=codeSTACKr" />
-</div>
-
-<br/>
-
-## 💡 Currently Learning
-
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-<br/>
-
 ## ⌨️ Languages and Tools
 ## 🔠 Languages
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -193,4 +175,21 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
+<br/>
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHU23&show_icons=true&theme=codeSTACKr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHU23&layout=compact&theme=codeSTACKr" />
+</div>
+
+<br/>
+
+## 💡 Currently Learning
+
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
