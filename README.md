@@ -25,6 +25,7 @@
 <br/>
 
 ## ⌨️ My Skills
+<table><tr><td valign="top" width="33%"> 
 ## 🔠 Languages
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -66,8 +67,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
        
-<br/>
-
+</td>
+<td valign="top" width="33%"> 
 ## 🧰 Tools
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -85,7 +86,7 @@
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </a>
-
+</td>  </tr></table>
 
 ## 💽 Databases
 
