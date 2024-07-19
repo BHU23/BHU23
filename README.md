@@ -9,7 +9,8 @@
 </p>
 
 <p style="text-align: justify;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.🥰
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.🥰 <a  href="https://bhuwadolsriton.onrender.com" target="_blank" rel="noreferrer">My Resume</a>
+  
 </p>
 
 <br/>
@@ -18,9 +19,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My interest in an internship 
 
-[![Software Engineer](https://img.shields.io/badge/Software%20Engineer-ffffff?style=for-the-badge)](https://your-link-here)
-[![Front-end Developer](https://img.shields.io/badge/Frontend%20Developer-FF5722?style=for-the-badge)](https://your-link-here)
-[![Back-end Developer](https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge)](https://your-link-here)
+[![Software Engineer](https://img.shields.io/badge/Software%20Engineer-ffffff?style=for-the-badge)]([https://your-link-here](https://bhuwadolsriton.onrender.com))
+[![Front-end Developer](https://img.shields.io/badge/Frontend%20Developer-FF5722?style=for-the-badge)]([https://your-link-here](https://bhuwadolsriton.onrender.com))
+[![Back-end Developer](https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge)]([https://your-link-here](https://bhuwadolsriton.onrender.com))
 
 <br/>
 
