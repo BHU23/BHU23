@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;I+love+developing.;And+I+love+you+๐-๐!&center=true&width=500&height=50"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;I+love+developing.;And+I+love+you+๐-๐!&center=true&width=500&height=50"></a> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Bhuwadol+Sriton!;I+love+learning.;I+love+coding;I+love+developing.;And+I+love+you+๐-๐!&center=true&width=500&height=50"></a>
 </h1>
 
 <h1 align="center">  Hi, I'm Bhuwadol Sriton! 👋 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
