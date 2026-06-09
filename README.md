@@ -6,23 +6,16 @@
 <h1 align="center">  Hi, I'm Bhuwadol Sriton! 👋 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
 <p style="text-align: justify;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a student in computer engineering with experience in Agile methodologies. I am capable of designing, developing, testing, and maintaining software efficiently. I am passionate about full-stack development, including both front-end and back-end.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Software Developer</b> with experience building scalable web applications, REST APIs, and event-driven systems using Java, Spring Boot, React, Next.js, Node.js, and Go.
 </p>
 
 <p style="text-align: justify;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, I have skills in fine-tuning various AI models, an area I am currently learning and exploring with great interest. I am always ready to face new challenges and present innovative solutions to drive technological advancement. Continuous learning and knowledge sharing with the community.🥰 <a  href="https://bhuwadolsriton.onrender.com" target="_blank" rel="noreferrer">My Resume</a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working on Customer Relationship Management (CRM) and Sales Platform solutions, focusing on backend architecture, system integration, batch processing, and microservice-based applications. Experienced in developing high-performance dashboards, optimizing data pipelines, and migrating legacy systems into modern scalable services.
 </p>
 
-<br/>
-
-<!--  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Abilities -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My interest in an internship 
-
-[![Software Engineer](https://img.shields.io/badge/Software%20Engineer-ffffff?style=for-the-badge)]([https://your-link-here](https://bhuwadolsriton.onrender.com))
-[![Front-end Developer](https://img.shields.io/badge/Frontend%20Developer-FF5722?style=for-the-badge)]([https://your-link-here](https://bhuwadolsriton.onrender.com))
-[![Back-end Developer](https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge)]([https://your-link-here](https://bhuwadolsriton.onrender.com))
+<p style="text-align: justify;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am passionate about full-stack development, software architecture, and AI-powered applications. I enjoy solving complex technical challenges, building maintainable systems, and continuously learning new technologies.🥰 <a  href="https://bhuwadolsriton.onrender.com" target="_blank" rel="noreferrer">My Resume</a>
+</p>
 
 <br/>
 
@@ -31,7 +24,10 @@
   <table><tr><td valign="top" width="33%"> 
     
   ## 🔠 Languages
-  
+
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -76,13 +72,28 @@
   <td valign="top" width="33%"> 
     
   ## 🧰 Tools
-  
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
@@ -92,6 +103,9 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+</a>
   </td> </tr>
   <tr>
   <td valign="top" width="33%"> 
@@ -147,12 +161,21 @@
   
   </td> 
   <td valign="top" width="33%"> 
-    
-  ## 🅰️ Automation
-  
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
+
+  ## ☁️ Cloud & DevOps
+
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
+  
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+    
   </td></tr>
   <tr>
   <td valign="top" width="33%"> 
@@ -189,6 +212,9 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
+   <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
+  </a>
   <br/> </td> </tr> </table>
 </div>
 
@@ -196,14 +222,10 @@
 
 ## 💡 Currently Learning
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
-<br/>
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI_Assistant-orange?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_Workflows-blue?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-Generative_AI-green?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-Scalability-purple?style=for-the-badge)
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
